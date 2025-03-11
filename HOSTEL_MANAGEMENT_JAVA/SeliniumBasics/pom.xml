@@ -113,7 +113,7 @@
               <goal>java</goal>
             </goals>
             <configuration>
-              <mainClass>BasicsSelinium.Mobiles1</mainClass> <!-- Replace with actual main class -->
+              <mainClass>BasicsSelinium.leafGround</mainClass> <!-- Replace with actual main class -->
             </configuration>
           </execution>
         </executions>
